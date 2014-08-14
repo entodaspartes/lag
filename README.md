@@ -11,7 +11,7 @@ LAG corre bajo [jekyll](http://jekyllrb.com/), un procesador de contenidos escri
 
 Y para escribir ocupamos Markdown, puedes encontrar una guía en castellano [aquí](http://joedicastro.com/pages/markdown.html).
 
-Puedes visualizar tus cambios accediendo a [http://0.0.0.0:4000/gratis] tras ejecutar `jekyll server` en el directorio del proyecto.
+Puedes visualizar tus cambios accediendo a [http://0.0.0.0:4000/gratis](http://0.0.0.0:4000/gratis) tras ejecutar `jekyll server` en el directorio del proyecto.
 
 ## Licencia
 
