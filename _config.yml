@@ -1,0 +1,10 @@
+# Site settings
+title: La Ascurría es Gratis
+email: root@entodaspartes.org
+description: ""
+baseurl: "/gratis"
+url: "http://la.ascurria.es"
+github_username:  entodaspartes
+
+# Build settings
+markdown: kramdown
