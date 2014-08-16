@@ -67,11 +67,12 @@ Incluso si crees que votar es sólo una selección sin significado -salvo el cub
 
 Para ampliar que sólo “somos de internet”, tenemos cierta cantidad de poder de nuestro lado que podemos ejercer en este dominio. Es posible desarrollar sistemas amigables que sean capaces de bloquear este tipo de vigilancia. Yo trabajo en el desarrollo de aplicaciones de código abierto para la seguridad y privacidad en [Open Whisper Systems](https://whispersystems.org), pero aún queda mucho por hacer. Si te interesa, por favor considera la búsqueda de alguna forma directa de oponerse a esta floreciente industria de vigilancia mundial. Nos va a tomar a todxs nosotrxs.
 
-_Moxie Marlinspike_
+_Moxie Marlinspike_  
 _Junio 2013_
 
-NOTAS DE LA TRADUCCIÓN:
-[1]: Casos locales sobre este tipo de regulaciones han sido publicadas, por ejemplo, en los diarios [La Tercera](http://diario.latercera.com/2011/03/06/01/contenido/pais/31-61540-9-las-leyes-que-usted-no-conoce.shtml) y [La Cuarta](http://www.lacuarta.com/noticias/cronica/2012/07/63-140423-9-leyes-absurdas-sacan-carcajadas-entre-abogados.shtml).
 
-    Texto original (en inglés)
+Notas de la traducción: [1]: Casos locales sobre este tipo de regulaciones han sido publicadas, por ejemplo, en los diarios [La Tercera](http://diario.latercera.com/2011/03/06/01/contenido/pais/31-61540-9-las-leyes-que-usted-no-conoce.shtml) y [La Cuarta](http://www.lacuarta.com/noticias/cronica/2012/07/63-140423-9-leyes-absurdas-sacan-carcajadas-entre-abogados.shtml).
+
+
+* [Texto original (en inglés)](http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/)
 
