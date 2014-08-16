@@ -11,19 +11,19 @@ Aún así, entregaron la versión 7.2 de TrueCrypt. Los ficheros estaban firmado
 
 TrueCrypt ha estado disponible en internet desde hace unos 10 años, no estando exento de polémicas dentro de los círculos de seguridad. Entre sus principales gracias estaban:
 
-    - Facilidad de uso.
-    - Multiplataforma (funciona en Windows, OS X y Linux).
-    - Cifrado de disco completo.
-    - Al parecer, no hubieron reportes de problemas de seguridad graves con él.
-    - Gratis.
+- Facilidad de uso.
+- Multiplataforma (funciona en Windows, OS X y Linux).
+- Cifrado de disco completo.
+- Al parecer, no hubieron reportes de problemas de seguridad graves con él.
+- Gratis.
 
 **Y sus principales problemas eran:**
 
-    - Anonimato de quienes lo desarrollan. Este problema va desde una cosa tan “simple” como tener a quién consultarle si el mensaje de despedida es real, hasta saber las intenciones que hay detrás de un software.
-    - Su seguridad no era puesta a prueba (cosa que estaba cambiando en este tiempo).
-    - Si bien el código fuente estaba disponible, era bastante tedioso el crear un ejecutable de él.
-    - El desarrollo era a puertas cerradas, lo que ampliaba el desconocimiento de qué había detrás de TrueCrypt.
-    - No era software libre.
+- Anonimato de quienes lo desarrollan. Este problema va desde una cosa tan “simple” como tener a quién consultarle si el mensaje de despedida es real, hasta saber las intenciones que hay detrás de un software.
+- Su seguridad no era puesta a prueba (cosa que estaba cambiando en este tiempo).
+- Si bien el código fuente estaba disponible, era bastante tedioso el crear un ejecutable de él.
+- El desarrollo era a puertas cerradas, lo que ampliaba el desconocimiento de qué había detrás de TrueCrypt.
+- No era software libre.
 
 **Ya, ya, ya, mucha info… Entonces, ¿qué pasó?**
 
