@@ -11,13 +11,13 @@ En un documento interno revelado, la NSA define su postura como la de “esnifar
 
 En su nuevo libro sobre el trabajo con Snowden, No place to hide, el periodista Glenn Greenwald muestra varios hechos alarmantes que han sido revelados dentro de este año hito:
 
-    * En un periodo de 30 días, la NSA ha recolectado al menos 3 millones de llamadas telefónicas y emails que han pasado a través de las compañías de telecomunicaciones estadounidenses. Como Gleenwald explica, esto excedería la recolección de cada sistema de Rusia, México y virtualmente, de todos los países en Europa, y estrechamente iguala la recolección de datos por parte de China.
+* En un periodo de 30 días, la NSA ha recolectado al menos 3 millones de llamadas telefónicas y emails que han pasado a través de las compañías de telecomunicaciones estadounidenses. Como Gleenwald explica, esto excedería la recolección de cada sistema de Rusia, México y virtualmente, de todos los países en Europa, y estrechamente iguala la recolección de datos por parte de China.
 
-    * En un periodo de 30 días, una sola unidad de la NSA recolectó datos de más de 97 millones de emails y 124 millones de llamadas telefónicas de alrededor del mundo.
+* En un periodo de 30 días, una sola unidad de la NSA recolectó datos de más de 97 millones de emails y 124 millones de llamadas telefónicas de alrededor del mundo.
 
-    * En un periodo de 30 días, la NSA ha recolectado 500 mil partes de datos desde Alemania, 2,3 millones desde Brasil y 13,5 millones desde India.
+* En un periodo de 30 días, la NSA ha recolectado 500 mil partes de datos desde Alemania, 2,3 millones desde Brasil y 13,5 millones desde India.
 
-    * La NSA ha recolectado 70 millones de partes de metadatos en cooperación con Francia, 60 millones con España, 47 millones con Italia, 1.8 millones con Holanda, 33 millones con Noruega y 23 millones con Dinamarca.
+* La NSA ha recolectado 70 millones de partes de metadatos en cooperación con Francia, 60 millones con España, 47 millones con Italia, 1.8 millones con Holanda, 33 millones con Noruega y 23 millones con Dinamarca.
 
 En adición, el reporte de Snowden ha traido a la luz niveles jerárquicos de trabajo de estas asociaciones de la NSA con gobiernos extranjeros. Como reporta el libro de Greenwald:
 
@@ -51,9 +51,10 @@ Mientras que las revelaciones de Snowden han entregado una invaluable confirmaci
 
 Ya que ha pasado un año, claro está que debemos actualizar nuestra infraestructura técnica y leyes, que sean consistentes con los estándares de los derechos humanos, en orden mantener un razonable grado de privacidad. Pero específicamente, debemos terminar con la vigilancia global. Es así como políticos de cada país deben levantarse contra las incursiones de la NSA en su territorio y EEUU necesita reformar sus leyes para reconocer los derechos de privacidad de inocentes extranjeros. Y a comunidad internacional necesita definir normas claras que hagan posible a cualquier estado conducir la vigilancia de masas a un paria.
 
+
 _Katitza Rodriguez_  
 _15 de mayo de 2014_
 
  
-* [Texto original (en inglés)](https://www.eff.org/deeplinks/2014/05/looking-back-one-year-after-edward-snowden-disclosures-international-perspective)
+ * [Texto original (en inglés)](https://www.eff.org/deeplinks/2014/05/looking-back-one-year-after-edward-snowden-disclosures-international-perspective)
 
