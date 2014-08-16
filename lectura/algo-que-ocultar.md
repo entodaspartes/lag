@@ -13,13 +13,13 @@ Tanto antes como ahora, lxs defensorxs de la privacidad han entrado en conflicto
 
 Tal como James Duane, un profesor en la escuela de leyes de Regent y ex abogado defensor, da cuenta en su [charla](https://www.youtube.com/watch?v=6wXkI4t7nuc) sobre por qué nunca es una buena idea hablarle a la policía:
 
-    >“Estimando el tamaño actual del organismo federal relacionado a la justicia y leyes, se reporta que el Congressional Research Service (Servicio de Búsqueda del Congreso de EE.UU.) no puede ni saber el número actual de crímenes federales. Las leyes están dispersas en más de 50 apartados del código civil de Estados Unidos en alrededor de 27.000 páginas. Peor aún, el código a menudo incorpora por referencia, tipo y sanciones de la regulación administrativa promulgada por diversos agencias bajo la autorización del congreso. Estimando cuantos de éste tipo de regulaciones existen, incluso las no muy confeccionadas, se piensa que son cerca de 10.000 según la ABA (American Bar Association)[1]“
+ >“Estimando el tamaño actual del organismo federal relacionado a la justicia y leyes, se reporta que el Congressional Research Service (Servicio de Búsqueda del Congreso de EE.UU.) no puede ni saber el número actual de crímenes federales. Las leyes están dispersas en más de 50 apartados del código civil de Estados Unidos en alrededor de 27.000 páginas. Peor aún, el código a menudo incorpora por referencia, tipo y sanciones de la regulación administrativa promulgada por diversos agencias bajo la autorización del congreso. Estimando cuantos de éste tipo de regulaciones existen, incluso las no muy confeccionadas, se piensa que son cerca de 10.000 según la ABA (American Bar Association)[1]“
 
 Si el gobierno federal no puede contar siquiera cuántas leyes existen, ¿qué oportunidades tiene un sujeto de saber con certeza que no está violando una de ellas?
 
 Así como el juez Stephen Breyer, de  la corte Sumprema de EE.UU. [afirma](http://www.law.cornell.edu/supct/html/98-93.ZD.html):
 
-    >“La complejidad de la moderna ley federal, codificada en miles de secciones del Codigo Civil de Estado Unidos, y la virtualmente infinita variedad de hechos y circunstancias que podrían dar lugar de  una investigación a una posible violación de la ley, de antemano hacen difícil para cualquiera saber qué documentos-leyes pueden ser relevantes en una investigación de ese tipo.”
+>"La complejidad de la moderna ley federal, codificada en miles de secciones del Codigo Civil de Estado Unidos, y la virtualmente infinita variedad de hechos y circunstancias que podrían dar lugar de  una investigación a una posible violación de la ley, de antemano hacen difícil para cualquiera saber qué documentos-leyes pueden ser relevantes en una investigación de ese tipo.”
 
 ¿Sabías que es un [crimen federal](http://www.law.cornell.edu/uscode/text/16/3372) tener una langosta debajo de cierta medida? Sin importar si la compraste en una tienda o si alguien te la dio, si está viva o muerta, si tu la encontraste muerta por causas naturales, o incluso si la mataste en defensa personal, puedes ir a la cárcel por culpa de la langosta.
 
