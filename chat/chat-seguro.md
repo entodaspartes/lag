@@ -13,5 +13,5 @@ Además de cifrar o encriptar tus conversaciones, OTR provee:
 - [Perfect Forward Secrecy](https://es.wikipedia.org/wiki/Perfect_forward_secrecy): con PFS en caso de que pierdas tu llave, las conversaciones previas no quedan comprometidas.
 
 **Bien. Entonces quiero desde ya usar Pidgin+OTR, ¿cómo lo instalo?**  
-Pincha el siguiente link y te mostramos cómo :) 
+Pincha el siguiente [link](https://github.com/nicht/lag/blob/master/chat/pidgin-otr.md) y te mostramos cómo :) 
 

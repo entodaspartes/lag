@@ -4,7 +4,7 @@ Como ya te comentábamos [previamente](https://github.com/nicht/lag/blob/master/
 
 En el presente tutorial, mostraremos cómo instalar Pidgin y OTR:
 
-###1. Descarga/Instalación en Debian, Ubuntu o Linux Mint**
+###1. Descarga/Instalación en Debian, Ubuntu o Linux Mint
 
 **a)** Actualmente OTR viene por defecto añadido (pero no activado) y es solo necesario instalar pidgin:
 
